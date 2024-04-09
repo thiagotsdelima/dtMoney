@@ -14,3 +14,17 @@ display: flex;
 justify-content: space-between;
 align-items: center;
 `;
+
+export const NewTransactionButton = styled.button`
+height: 50px;
+border: 0;
+background: ${props => props.theme['green-500']};
+font-weight: bold;
+padding: 0 1.125rem;
+border-radius: 6px;
+cursor: pointer;
+transition: background-color 0.2s;
+&:hover {
+  background: ${props => props.theme['green-700']};
+}
+`;
