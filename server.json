@@ -15,6 +15,14 @@
       "category": "Alimentacao",
       "price": 60,
       "createdAt": "2024-04-19T10:45:10.185Z"
+    },
+    {
+      "id": 3,
+      "description": "Pizzar",
+      "type": "outcome",
+      "category": "Alimentacao",
+      "price": 1160,
+      "createdAt": "2024-04-19T02:45:10.185Z"
     }
   ]
 }
