@@ -1,28 +1,5 @@
 {
   "transactions": [
-    {
-      "id": "6067",
-      "description": "manipulando site",
-      "price": 2222,
-      "category": "programin",
-      "type": "income",
-      "createdAt": "2024-04-21T18:36:42.384Z"
-    },
-    {
-      "id": "1567",
-      "description": "pizzar",
-      "price": 50,
-      "category": "alimento",
-      "type": "outcome",
-      "createdAt": "2024-04-21T18:36:55.101Z"
-    },
-    {
-      "id": "a580",
-      "description": "moster",
-      "price": 5000,
-      "category": "site",
-      "type": "income",
-      "createdAt": "2024-04-21T18:37:11.697Z"
-    }
+ 
   ]
 }
