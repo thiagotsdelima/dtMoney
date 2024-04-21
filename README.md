@@ -75,10 +75,9 @@ To start working with the "DT Money" project, follow these installation steps:
 
 1. **Project Creation with Vite:**
 
-  To create a new project using Vite, run the following command in the terminal:
+  To create a new project using TypeScript, run the following command in the terminal:
 
    ```bash
-   npm create vite@latest
    
 
 ### Installing Project Dependencies
