@@ -1,28 +1,28 @@
 {
   "transactions": [
     {
-      "id": 1,
-      "description": "Desenvolvimento de site",
+      "id": "6067",
+      "description": "manipulando site",
+      "price": 2222,
+      "category": "programin",
       "type": "income",
-      "category": "Venda",
-      "price": 14000,
-      "createdAt": "2024-04-19T18:45:10.185Z"
+      "createdAt": "2024-04-21T18:36:42.384Z"
     },
     {
-      "id": 2,
-      "description": "Hamburger",
+      "id": "1567",
+      "description": "pizzar",
+      "price": 50,
+      "category": "alimento",
       "type": "outcome",
-      "category": "Alimentacao",
-      "price": 60,
-      "createdAt": "2024-04-19T10:45:10.185Z"
+      "createdAt": "2024-04-21T18:36:55.101Z"
     },
     {
-      "id": 3,
-      "description": "Pizzar",
-      "type": "outcome",
-      "category": "Alimentacao",
-      "price": 1160,
-      "createdAt": "2024-04-19T02:45:10.185Z"
+      "id": "a580",
+      "description": "moster",
+      "price": 5000,
+      "category": "site",
+      "type": "income",
+      "createdAt": "2024-04-21T18:37:11.697Z"
     }
   ]
 }
